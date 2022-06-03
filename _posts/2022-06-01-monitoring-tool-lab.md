@@ -1,9 +1,8 @@
 ---
-title: "ServeWatch"
-date: 2022-01-07 09:00:00 -0500
-categories: [Programming,K83]
-tags: [streaming,twitch,hardware] 
+layout: post
+title:  "ServeWatch Tool!"
 ---
+
 
 # Welcome
 <p align="center"><img src="project/static/images/logo.png" width="200px" height="200px" alt="image should be here"></p>
