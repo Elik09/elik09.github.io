@@ -2,7 +2,7 @@
 title: "ServeWatch"
 date: 2022-01-07 09:00:00 -0500
 categories: [Programming,K83]
-tags: [goxlr, streaming, twitch, hardware] 
+tags: [streaming,twitch,hardware] 
 ---
 
 # Welcome
